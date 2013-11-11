@@ -1,4 +1,4 @@
-package is.ru.helloworld
+package is.ru.helloworld;
 
 public class HelloWorld{
 	public static void main(String[] args){
